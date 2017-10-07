@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include billing_system *.css
+recursive-include billing_system *.csv
+recursive-include billing_system *.html
+recursive-include billing_system *.ico
+recursive-include billing_system *.js
+recursive-include billing_system *.json
+recursive-include billing_system *.md
+recursive-include billing_system *.png
+recursive-include billing_system *.py
+recursive-include billing_system *.svg
+recursive-include billing_system *.txt
+recursive-exclude billing_system *.pyc
