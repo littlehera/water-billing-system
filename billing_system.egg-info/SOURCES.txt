@@ -1,5 +1,4 @@
 MANIFEST.in
-README.md
 license.txt
 requirements.txt
 setup.py
